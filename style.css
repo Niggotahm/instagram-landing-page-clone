@@ -71,6 +71,7 @@ body {
    flex-direction: column;
    border-radius: 50%;
    overflow: hidden;
+   margin-bottom: 0.66rem;
 }
 
 .profile-photo img {
@@ -91,6 +92,10 @@ body {
 
 .not-account {
    color: rgb(160, 160, 160);
+}
+
+.group p:nth-child(1) {
+   margin-bottom: 0.66rem;
 }
 
 .link-blue {
